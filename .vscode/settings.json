@@ -1,0 +1,13 @@
+{
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/Elizeu/.vscode/vscode_style/vscode_style.css"
+    ],
+    "editor.indentSize": "tabSize",
+
+    "editor.cursorBlinking": "expand",
+    "editor.formatOnType": false,
+    "editor.wordWrapColumn": 85,
+    "editor.wordWrap": "wordWrapColumn",
+    "material-icon-theme.opacity": 1
+   
+}
